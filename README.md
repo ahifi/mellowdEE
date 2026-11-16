@@ -5,7 +5,7 @@ Presets with "s" suffix (mellowdEEs) are meant for external speakers and those w
 
 The equalizer 2 of all mellowdEEe presets have cuts instead of boosts in the bands involving mid frequencies so as to reduce the pinna gain, that most earphones are tuned with, which some might feel shouty. If you want flat mids, see instructions below regarding muting the mid bands of EQ 2.
 
-In case you want to try mellowdEEs preset for dark earphones and mellowdEEe preset for bright external speakers, you can very well do so by just enabling and disabling crossfeed respectively.
+In case you want to try mellowdEEs presets for dark earphones and mellowdEEe presets for bright external speakers, you can very well do so by just enabling and disabling crossfeed respectively.
 
 mellowdEEs presets add more clarity to the mid and high frequencies of my speaker setup with bottom-heavy subwoofer and mellowdEEe presets make my in-ears with too much pinna gain less shouty and more warm-neutral. When used as is, these presets barely raise the overall loudness, so they could work for most casual listening setups.
 
