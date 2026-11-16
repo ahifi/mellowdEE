@@ -82,7 +82,7 @@
                     "slope": "x1",
                     "solo": false,
                     "type": "Bell",
-                    "width": 1.0
+                    "width": 4.0
                 },
                 "band2": {
                     "frequency": 4050.0400390625,
@@ -93,7 +93,7 @@
                     "slope": "x1",
                     "solo": false,
                     "type": "Bell",
-                    "width": 1.0
+                    "width": 4.0
                 },
                 "band3": {
                     "frequency": 6556.0,
@@ -104,7 +104,7 @@
                     "slope": "x1",
                     "solo": false,
                     "type": "Bell",
-                    "width": 1.0
+                    "width": 4.0
                 },
                 "band4": {
                     "frequency": 7227.0,
@@ -115,7 +115,7 @@
                     "slope": "x1",
                     "solo": false,
                     "type": "Hi-shelf",
-                    "width": 1.0
+                    "width": 4.0
                 }
             },
             "mode": "IIR",
@@ -144,7 +144,7 @@
                     "slope": "x1",
                     "solo": false,
                     "type": "Bell",
-                    "width": 1.0
+                    "width": 4.0
                 },
                 "band2": {
                     "frequency": 4050.0400390625,
@@ -155,7 +155,7 @@
                     "slope": "x1",
                     "solo": false,
                     "type": "Bell",
-                    "width": 1.0
+                    "width": 4.0
                 },
                 "band3": {
                     "frequency": 6556.0,
@@ -166,7 +166,7 @@
                     "slope": "x1",
                     "solo": false,
                     "type": "Bell",
-                    "width": 1.0
+                    "width": 4.0
                 },
                 "band4": {
                     "frequency": 7227.0,
@@ -177,7 +177,7 @@
                     "slope": "x1",
                     "solo": false,
                     "type": "Hi-shelf",
-                    "width": 1.0
+                    "width": 4.0
                 }
             },
             "split-channels": false

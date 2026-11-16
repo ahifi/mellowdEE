@@ -109,7 +109,7 @@
                 "band4": {
                     "frequency": 4050.0400390625,
                     "gain": -1.0000003576278687,
-                    "mode": "APO (DR)",
+                    "mode": "RLC (BT)",
                     "mute": false,
                     "q": 1.0,
                     "slope": "x1",
@@ -193,7 +193,7 @@
                 "band4": {
                     "frequency": 4050.0400390625,
                     "gain": -1.0000003576278687,
-                    "mode": "APO (DR)",
+                    "mode": "RLC (BT)",
                     "mute": false,
                     "q": 1.0,
                     "slope": "x1",
