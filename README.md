@@ -36,6 +36,8 @@ You can enable bass enhancer for more bass. For music with enough bass already, 
 
 If you need less mid bass, you can mute the first band of EQ 2 for both presets.
 
+You can also change the makeup of band 1 of multiband compressor to -3.0 dB for less bass.
+
 If you do not need any high-pass, you can leave the only band of EQ 1 muted for both.
 
 Try not to change the Scope of exciters for both presets as it might bring up noise and/or make vocals and other details harsh and too sharp. You can try Scope of 5000 Hz for exciter 1, but it could sound a bit harsh, or 6000 Hz, which would feel smoother but a bit recessed.  On the other hand, 5500 Hz would retain enough details and be a safer middle ground.
