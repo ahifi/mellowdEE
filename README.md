@@ -1,7 +1,7 @@
 
 Two sets of eight low-latency musical presets for [Easy Effects](https://github.com/wwmm/easyeffects)
 
-Presets with "s" suffix (mellowdEEs) are meant for external speakers and those with suffix "e" (mellowdEEe) for earphones. The former are brighter and meant for reccessed, dark sounding speakers, and the latter for bright or shouty earphones.
+Presets with "s" suffix (mellowdEEs) are meant for external speakers and those with suffix "e" (mellowdEEe) for earphones. The former are brighter and meant for recessed, dark sounding speakers, and the latter for bright or shouty earphones.
 
 The equalizer 2 of all mellowdEEe presets have cuts instead of boosts in the bands involving mid frequencies so as to reduce the pinna gain, that most earphones are tuned with, which some might feel shouty. If you want flat mids, see instructions below regarding muting the mid bands of EQ 2.
 
