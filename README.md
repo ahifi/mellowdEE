@@ -36,7 +36,7 @@ You can enable bass enhancer for more bass. For music with enough bass already, 
 
 If you need less mid bass, you can mute the first band of EQ 2 for both presets.
 
-You can also change the makeup of band 1 of multiband compressor to -3.0 dB for less bass.
+You can also change the makeup of band 1 of multiband compressor from 0 upto -3.0 dB for less bass.
 
 If you do not need any high-pass, you can leave the only band of EQ 1 muted for both.
 
@@ -46,13 +46,15 @@ You can disable the upward expander and/or compressors for a milder sound.
 
 If even at your usual high volume level you feel the music lacks clarity, as it might on some DACs/sound cards or with music that is quiet due to it having higher dynamic range, you can increase the EQ 1's input from -3 to 0 dB or simply disable EQ 1. I sometimes do that when listening to quiet music at a lower volume for a fuller sound.
 
-[You can flatten the EQ 2 of all mellowdEEs presets, excepting _Classical, by muting the mid bands that have frequencies between 1.1 to 4.2 kHz if you need mids with no gain.
+[You can flatten the EQ 2 of all mellowdEEs presets, excepting _Classical, by muting the mid bands that have frequencies between 1.1 to 4.2 kHz if you need mids with no gain. For fuller vocals, you can leave the 1.1 to 2.6 kHz bands as is.
 
-Leave _Classical as is since it already has flat mids.]
+Leave _Classical as is since it already has flat mids.
 
-[You can flatten the EQ 2 of all mellowdEEe presets, excepting _Classical, likewise by muting the mid bands that have frequencies between 1.1 to 4.2 kHz.
+You can also mute the band with 500 Hz for all.]
 
-For _Classical, just mute the third band.]
+[You can flatten the EQ 2 of all mellowdEEe presets, excepting _Classical, likewise by muting the mid bands that have frequencies between 1.1 to 4.2 kHz. Mute also the second last band. For fuller vocals, you can instead just mute bands that fall between 1.1 to 2.6 kHz.
+
+For _Classical, just mute the third band. You can also mute the band with 500 Hz.]
 
 In case you want to only boost, cut, or mute one band of EQ 2 and not the other; boost or cut the bass band or change its frequency; or boost or cut the high-shelf band; or change the scope and floor of bass enhancer, you can try whatever to make your sound better.
 
@@ -60,7 +62,7 @@ For near-natural sound, upward expander and compressors best be left milder as i
 
 If you are playing 24-bit music, change the limiter oversampling accordingly.
 
-To make the desired changes permanent, you can have them saved  by first clicking on the three dots of the active preset and then the "Save settings to this preset" option from the dropdown.
+To make the desired changes permanent, you can have them saved by first clicking on the three dots of the active preset and then the "Save settings to this preset" option from the dropdown.
 
 
 **_EQ PROVENANCE:_**
