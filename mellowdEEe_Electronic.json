@@ -255,7 +255,7 @@
         },
         "exciter#2": {
             "amount": 0.0,
-            "blend": -10.0,
+            "blend": 10.0,
             "bypass": false,
             "ceil": 20000.0,
             "ceil-active": true,
