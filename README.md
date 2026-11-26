@@ -1,5 +1,5 @@
 
-Two sets of eight low-latency musical presets for [Easy Effects](https://github.com/wwmm/easyeffects)
+Two sets of eight low-latency musical presets for [Easy Effects](https://github.com/wwmm/easyeffects) in 1.0, and two of two in 2.0. 
 
 Presets with "s" suffix (mellowdEEs) are meant for external speakers and those with suffix "e" (mellowdEEe) for earphones. The former are brighter and meant for recessed, dark sounding speakers, and the latter for bright or shouty earphones.
 
@@ -9,6 +9,7 @@ In case you want to try mellowdEEs presets for dark earphones and mellowdEEe pre
 
 mellowdEEs presets add more clarity to the mid and high frequencies of my speaker setup with bottom-heavy subwoofer and mellowdEEe presets make my in-ears with too much pinna gain less shouty and more warm-neutral. When used as is, these presets barely raise the overall loudness, so they could work for most casual listening setups.
 
+[mellowdEEe_Warm and _Bright and their variants are respectively meant for bright earphones and dark speakers but can be used interchangeably. They should work for most genres.]
 
 **_INSTALLATION:_**
 
@@ -59,8 +60,6 @@ For _Classical, just mute the third band. You can also mute the band with 500 Hz
 In case you want to only boost, cut, or mute one band of EQ 2 and not the other; boost or cut the bass band or change its frequency; or boost or cut the high-shelf band; or change the scope and floor of bass enhancer, you can try whatever to make your sound better.
 
 For near-natural sound, upward expander and compressors best be left milder as is since they can make the sound boomy with higher ratios. Upward single-band compressor especially can bring out a fatter sound with higher ratio but all things considered it is not worth it.
-
-If you are playing 24-bit music, change the limiter oversampling accordingly.
 
 To make the desired changes permanent, you can have them saved by first clicking on the three dots of the active preset and then the "Save settings to this preset" option from the dropdown.
 
