@@ -9,7 +9,7 @@ In case you want to try mellowdEEs presets for dark earphones and mellowdEEe pre
 
 mellowdEEs presets add more clarity to the mid and high frequencies of my speaker setup with bottom-heavy subwoofer and mellowdEEe presets make my in-ears with too much pinna gain less shouty and more warm-neutral. When used as is, these presets barely raise the overall loudness, so they could work for most casual listening setups.
 
-[mellowdEEe_Warm and _Bright and their variants are respectively meant for bright earphones and dark speakers but can be used interchangeably. They should work for most genres.]
+[mellowdEEe_Warm, mellowdEEs_Bright and their variants are respectively meant for bright earphones and dark speakers but can be used interchangeably. They should work for most genres.]
 
 **_INSTALLATION:_**
 
