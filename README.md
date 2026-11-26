@@ -66,7 +66,7 @@ To make the desired changes permanent, you can have them saved by first clicking
 
 **_EQ PROVENANCE:_**
 
-All equalizer 2 settings of mellowdEEs presets, except _Perfect, are partly based on suggestions from https://emastered.com/blog/best-equalizer-settings and https://www.musicguymixing.com/jazz-equalizer-settings/. The EQ's of _Perfect presets are mine and inspired by _Jazz EQ like all other EQ's, too, more or less are.
+All equalizer 2 settings of mellowdEEs genre presets (not sound-signature based presets), except _Perfect, are partly based on suggestions from https://emastered.com/blog/best-equalizer-settings and https://www.musicguymixing.com/jazz-equalizer-settings/. The EQ's of _Perfect presets are mine and inspired by _Jazz EQ like all other EQ's, too, more or less are.
 
 
 A work of leisure for over two years, I have tested these and variants of these presets in the last few stable Easy Effects GTK versions, the latest being 8.2.8, Qt.
